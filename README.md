@@ -5,14 +5,14 @@ Esta UC visa dar aos estudantes uma formação básica na área das tecnologias 
 Universidade do Minho, R. da Universidade, 4710-057 Braga
 Licenciatura em Ciências da Computação
 
-Collab: 
+## Collab: 
 * João Guedes - A94013
 * Miguel Freitas - A91635
 * Pedro Gomes - A91647
 * Tomás Campinho - A91668
 
 
-Como resultado da aprendizagem, aprendemos:
+## Como resultado da aprendizagem, aprendemos:
 * Descrever os conceitos fundamentais sobre comunicação de dados, protocolos de comunicação e estruturação protocolar, incluindo os elementos protocolares mais comuns; 
 * Aplicar os conceitos mencionados acima, em especial, ao nível de ligação de dados e ao nível de rede;
 * Caracterizar as principais tecnologias de uma rede local (com e sem fios), entender o seu funcionamento, planeamento e interligação;
